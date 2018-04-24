@@ -4,7 +4,6 @@
     "parameters": {
     	"vmSize": {
             "type": "string",
-		    "defaultValue": "Standard_D3_v2",
             "allowedValues": [
                   "Standard_D3",
 				          "Standard_D3_v2",
@@ -20,7 +19,6 @@
         },
         "licenseType": {
            "type": "string",
-		    "defaultValue": "bundle2",
            "allowedValues": [
                "bundle2",
                "byol"
