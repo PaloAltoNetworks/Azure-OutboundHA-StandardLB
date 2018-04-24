@@ -13,6 +13,7 @@
 				          "Standard_D5_v2",
                   "Standard_A4"
             ],
+		    "defaultValue": "Standard_D3_v2",
             "metadata": {
                 "description": "Azure VM size for VM-Series"
             }
@@ -23,6 +24,7 @@
                "bundle2",
                "byol"
            ],
+		    "defaultValue": "bundle2",
            "metadata": {
              "description": "Select licensing model"
            }
