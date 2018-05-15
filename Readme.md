@@ -1,5 +1,5 @@
 
-[<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fpaloaltonetworks%2FOutbound-HA-StandardSKU-LB%2Fmaster%2FazureDeploy.json)
+[<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fpaloaltonetworks%2FAzure-OutboundHA-StandardLB%2Fmaster%2FazureDeploy.json)
 
 As part of the deployment options:
 - You MUST define a source IP address or subnet to allow management access. (0.0.0.0/0 is not allowed)
